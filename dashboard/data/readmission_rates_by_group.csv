@@ -1,0 +1,33 @@
+dimension,group_label,sort_order,encounters,readmitted,rate_pct,ci_low_pct,ci_high_pct,small_group,overall_rate_pct
+Age group,[0-10),0,160,3,1.9,0.6,5.4,0,11.4
+Age group,[10-20),10,690,40,5.8,4.3,7.8,0,11.4
+Age group,[20-30),20,1649,236,14.3,12.7,16.1,0,11.4
+Age group,[30-40),30,3764,424,11.3,10.3,12.3,0,11.4
+Age group,[40-50),40,9607,1024,10.7,10.1,11.3,0,11.4
+Age group,[50-60),50,17060,1667,9.8,9.3,10.2,0,11.4
+Age group,[60-70),60,22059,2493,11.3,10.9,11.7,0,11.4
+Age group,[70-80),70,25331,3054,12.1,11.7,12.5,0,11.4
+Age group,[80-90),80,16434,2065,12.6,12.1,13.1,0,11.4
+Age group,[90-100),90,2589,308,11.9,10.7,13.2,0,11.4
+Prior-year inpatient visits,0,0,66245,5690,8.6,8.4,8.8,0,11.4
+Prior-year inpatient visits,1,1,18984,2516,13.3,12.8,13.7,0,11.4
+Prior-year inpatient visits,2,2,7300,1309,17.9,17.1,18.8,0,11.4
+Prior-year inpatient visits,3+,3,6814,1799,26.4,25.4,27.5,0,11.4
+Primary diagnosis group,Diabetes,1,8661,1135,13.1,12.4,13.8,0,11.4
+Primary diagnosis group,Injury,2,6853,850,12.4,11.6,13.2,0,11.4
+Primary diagnosis group,Circulatory,3,29681,3469,11.7,11.3,12.1,0,11.4
+Primary diagnosis group,Other,4,17793,2079,11.7,11.2,12.2,0,11.4
+Primary diagnosis group,Genitourinary,5,5002,552,11.0,10.2,11.9,0,11.4
+Primary diagnosis group,Neoplasms,6,3131,341,10.9,9.8,12.0,0,11.4
+Primary diagnosis group,Digestive,7,9333,1010,10.8,10.2,11.5,0,11.4
+Primary diagnosis group,Respiratory,8,13934,1402,10.1,9.6,10.6,0,11.4
+Primary diagnosis group,Musculoskeletal,9,4935,471,9.5,8.8,10.4,0,11.4
+Medication count,1-5,1,4938,376,7.6,6.9,8.4,0,11.4
+Medication count,6-10,2,20374,1956,9.6,9.2,10.0,0,11.4
+Medication count,11-15,3,28846,3195,11.1,10.7,11.4,0,11.4
+Medication count,16-20,4,22096,2743,12.4,12.0,12.9,0,11.4
+Medication count,21+,5,23089,3044,13.2,12.8,13.6,0,11.4
+Insulin status,No,1,46379,4736,10.2,9.9,10.5,0,11.4
+Insulin status,Steady,2,30069,3420,11.4,11.0,11.7,0,11.4
+Insulin status,Down,3,11908,1693,14.2,13.6,14.9,0,11.4
+Insulin status,Up,4,10987,1465,13.3,12.7,14.0,0,11.4
