@@ -2,7 +2,9 @@
 
 Which diabetic patients are readmitted to the hospital within 30 days, and what do those patients have in common? This project loads a public hospital dataset into a relational SQLite database and answers business-style questions with SQL (joins, CTEs, window functions). Later phases add a dashboard and a predictive model.
 
-> **Status: Phase 1 (database and SQL) is complete.** Phase 2 (dashboard) is in progress; Phases 3-4 (predictive model, polish) are planned. See the Roadmap.
+> **Status: Phases 1 (database and SQL) and 2 (dashboard) are complete.** Phases 3-4 (predictive model, polish) are planned. See the Roadmap.
+>
+> **[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/alan.rodriguez2100/viz/HospitalReadmissionsDiabeticInpatients1999-2008/Dashboard1)**
 
 ## Why readmissions
 Unplanned readmissions are a quality and cost problem for hospitals, and U.S. Medicare penalizes hospitals with excess readmissions for certain conditions. Understanding which patients come back, and why, is a typical healthcare analytics question.
@@ -57,7 +59,7 @@ Open `data/readmissions.db` in [DB Browser for SQLite](https://sqlitebrowser.org
 | Phase | Work | Estimated effort |
 |---|---|---|
 | 1. SQL analysis | Run on real data, read the results, write up findings, add 3-5 of your own queries | 15-20 hrs |
-| 2. Dashboard | Tableau Public, built from exported summary tables (export script done; see `dashboard/`) | 6-10 hrs |
+| 2. Dashboard | Tableau Public dashboard built from exported summary tables (done; see `dashboard/`) | 6-10 hrs |
 | 3. Predictive model | Logistic regression vs. random forest for 30-day readmission | 8-15 hrs |
 | 4. Polish | Findings, limitations, screenshots, clean README | 3-5 hrs |
 

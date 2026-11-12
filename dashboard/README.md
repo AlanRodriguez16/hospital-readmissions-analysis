@@ -2,9 +2,7 @@
 
 A one-page dashboard built in **Tableau Public** from the summary tables this repo exports. It answers one question for a non-technical reader: *which diabetic patients are most likely to be readmitted within 30 days?*
 
-> **Status:** data export is done; the Tableau dashboard is being built. When it is published, the link and a screenshot go here.
->
-> Dashboard link: *(add after publishing)*
+> **Live dashboard:** [Hospital Readmissions: Diabetic Inpatients (1999-2008) on Tableau Public](https://public.tableau.com/app/profile/alan.rodriguez2100/viz/HospitalReadmissionsDiabeticInpatients1999-2008/Dashboard1)
 
 ## Data files
 
