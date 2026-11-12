@@ -81,6 +81,3 @@ Results from running the seven queries on the real data. All figures are 30-day 
 - `medical_specialty` is missing for about half the encounters, so Q4 covers only part of the data.
 - Rates for small groups are noisy; queries filter out groups under a minimum size.
 - Synthetic test data (`tests/`) is random. It checks that the code runs, and no result from it should be reported. For example, Q7 shows rising readmission with encounter count even on random data, because more encounters means more chances to be readmitted.
-
-## About
-Developed with AI assistance (Claude) for code and iteration.
