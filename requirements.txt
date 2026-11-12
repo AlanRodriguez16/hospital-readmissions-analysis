@@ -1,0 +1,3 @@
+pandas
+# Phase 3 (machine learning) will also need:
+# scikit-learn
